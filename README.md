@@ -5,7 +5,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoelber&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelber&hide_progress=true)
+<img src="https://raw.githubusercontent.com/jhoelber/jhoelber/output/snake.svg" alt="Snake animation" />
 
+###
 ## Tecnologias que eu uso no meu dia dia
 
 <div style="display: inline_block"> 
