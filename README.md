@@ -4,6 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557315723920&mibextid=ZbWKwL)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoelber&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelber&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia dia
 
@@ -20,4 +21,4 @@
 
 </div> <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelber&hide_progress=true)
+
