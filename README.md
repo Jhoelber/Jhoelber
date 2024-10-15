@@ -1,16 +1,11 @@
 ### Ola eu sou o Jhoelber 👋
+ Sou um estudante de programação da faculdade IFPR- campus jacarezinho
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhoelberlp)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557315723920&mibextid=ZbWKwL)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoelber&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelber&hide_progress=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ###
 
@@ -28,5 +23,7 @@
 <img style="align:center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 </div> <br>
+
+
 
 
