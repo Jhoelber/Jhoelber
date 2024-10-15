@@ -15,6 +15,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoelber&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoelber&hide_progress=true)
 
+<p> Atualmente trabalho com alguns projetos dos quais tenho que deixar privado em meu perfil... Mas futuramente irei criar um git voltando somente para os meus projetos pessoais </p>
+
 ###
 
 
@@ -33,7 +35,6 @@
 
 </div> <br>
 
-<p> Atualmente trabalho com alguns projetos dos quais tenho que deixar privado em meu perfil... Mas futuramente irei criar um git voltando somente para os meus projetos pessoais </p>
 
 
 
