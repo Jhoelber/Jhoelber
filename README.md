@@ -4,8 +4,7 @@
 
 
 ### Ola eu sou o Jhoelber 👋
- Sou um estudante de programação da faculdade IFPR- campus jacarezinho
-
+ Sou um estudante de programação da faculdade IFPR- campus jacarezinho e trabalho diretamente com programação a pouco mais de 8 meses, confesso que tenho muito que aprender, mas em pouco tempo percebi que a programação nos tras possibilidades que nao encontrei em outra areas que atuei. Com projetos simples que participo em conjunto a prefeitura da minha cidade, eu percebi que para inovar nao necessariamente precisamos reenventar a roda e que o simples as vezes pode ajudar muito.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhoelberlp)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557315723920&mibextid=ZbWKwL)
@@ -31,7 +30,7 @@
 
 </div> <br>
 
-## Atualmente trabalho com alguns projetos dos quais tenho que deixar privado em meu perfil... Mas futuramente irei criar um git voltando somente para os meus projetos pessoais
+<p> Atualmente trabalho com alguns projetos dos quais tenho que deixar privado em meu perfil... Mas futuramente irei criar um git voltando somente para os meus projetos pessoais </p>
 
 
 
