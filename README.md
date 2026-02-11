@@ -3,7 +3,7 @@
   <img width="900" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding banner"/>
 </p>
 
-<h1 align="center">Olá, eu sou o Jhoelber Pinheiro 👋</h1>
+<h1 align="center">Olá, eu sou o Jhoelber</h1>
 
 <p align="center">
   Desenvolvedor focado em <b>soluções reais</b> para o setor público e negócios locais.<br/>
