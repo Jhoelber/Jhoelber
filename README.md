@@ -37,13 +37,4 @@ Hoje eu mexo bastante com:
 ---
 
 ### GitHub 
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhoelber&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhoelber&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
-
----
-
 > Obs: alguns projetos meus são privados (produção/trabalho), mas sempre vou subindo versões demonstrativas e projetos pessoais por aqui.
