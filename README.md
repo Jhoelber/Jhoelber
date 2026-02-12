@@ -5,7 +5,7 @@
 ## Opa! Eu sou o Jhoelber 👋
 
 Sou desenvolvedor e formado pelo IFPR (Campus Jacarezinho).  
-Gosto de criar sistemas “pé no chão” que resolvem problema de verdade — principalmente coisas ligadas a atendimento ao público, automação e projetos que rodam no dia a dia (tipo totem, impressão de PDF, TV corporativa, etc).
+Gosto de criar sistemas “pé no chão” que resolvem problema de verdade — principalmente coisas ligadas a atendimento ao público, automação e projetos que rodam no dia a dia (tipo totem, TV corporativa, etc).
 
 Hoje eu mexo bastante com:
 - Electron/Windows Kiosk (totem)
