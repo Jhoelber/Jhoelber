@@ -7,7 +7,7 @@
 Sou desenvolvedor e formado pelo IFPR (Campus Jacarezinho).  
 Gosto de criar sistemas “pé no chão” que resolvem problema de verdade — principalmente coisas ligadas a atendimento ao público, automação e projetos que rodam no dia a dia (tipo totem, TV corporativa, etc).
 
-Hoje eu mexo bastante com:
+Tecnologias utilizadas:
 - Electron/Windows Kiosk (totem)
 - React + Vite + TypeScript
 - Back-end com Java (Spring) e também Strapi/Node quando faz sentido
