@@ -36,5 +36,4 @@ Tecnologias utilizadas:
 
 ---
 
-### GitHub 
-> Obs: alguns projetos meus são privados (produção/trabalho), mas sempre vou subindo versões demonstrativas e projetos pessoais por aqui.
+
