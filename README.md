@@ -5,10 +5,10 @@
 ## Opa! Eu sou o Jhoelber 👋
 
 Sou desenvolvedor e formado pelo IFPR (Campus Jacarezinho).  
-Gosto de criar sistemas “pé no chão” que resolvem problema de verdade — principalmente coisas ligadas a atendimento ao público, automação e projetos que rodam no dia a dia (tipo totem, TV corporativa, etc).
+Gosto de criar sistemas “pé no chão” que resolvem problema de verdade — principalmente coisas ligadas a atendimento ao público, automação e projetos que rodam no dia a dia.
 
 Tecnologias utilizadas:
-- Electron/Windows Kiosk (totem)
+- Electron/Windows Kiosk
 - React + Vite + TypeScript
 - Back-end com Java (Spring) e também Strapi/Node quando faz sentido
 - Integração com upload de mídia, painéis e deploy
